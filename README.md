@@ -221,7 +221,7 @@ Performance depends on the random seed, number of PCA components, and training e
 | Model | OA (Overall Accuracy) | Notes |
 |---|---|---|
 | 2D CNN | ~99.34% | Fast to train, strong spatial baseline |
-| 3D CNN | ~85–92% | Better spectral-spatial modelling |
+| 3D CNN | ~99.77% | Better spectral-spatial modelling |
 | D2BERT | ~97.78% | Best on classes with fine spectral differences |
 
 ---
